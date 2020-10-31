@@ -14,7 +14,7 @@
 
 This is a small ultrasonic sensor created during [MakeZürich](https://www.makezurich.ch/) for the #BicycleParking challenge. The goal is to detect if a bicycle parking spot is occupied using an ultrasonic distance sensor.
 
-![](img\IMG_20201031_132051.jpg)
+![](img/IMG_20201031_132051.jpg)
 
 ### Built With
 The built using [TTGO Lora32 board](https://docs.platformio.org/en/latest/boards/espressif32/ttgo-lora32-v1.html#) and a [HC-SR04 sensor](https://cdn.sparkfun.com/datasheets/Sensors/Proximity/HCSR04.pdf). [PlatformIO](https://platformio.org/) is us used to develop and flash the firmeware for the board and data is transmitted to [The Things Network](https://www.thethingsnetwork.org/)
